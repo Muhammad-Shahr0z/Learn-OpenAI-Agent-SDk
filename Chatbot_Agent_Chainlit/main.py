@@ -110,9 +110,8 @@ Return the weather in emoji chart format:
 ✅ Be polite, helpful, and accurate always.
 """,
     tools=[get_weather]
+
 )
-
-
 
 
 # ✅ Show welcome message when app starts

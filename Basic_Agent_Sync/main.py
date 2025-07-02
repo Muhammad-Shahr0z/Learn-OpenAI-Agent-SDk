@@ -28,6 +28,7 @@ config = RunConfig(
 agent = Agent(
     name="Helpful Assistant",
     instructions="You are a helpful assistant.",
+    too
 )
 
 
